@@ -1,0 +1,41 @@
+{
+  "recintos": [
+    {
+      "numero": 1,
+      "bioma": "savana",
+      "total": 10,
+      "animais_existentes": ["macaco", "macaco", "macaco"],
+      "espacoLivre": 7
+    },
+   {
+      "numero": 2,
+      "bioma": "floresta",
+      "total": 5,
+      "animais_existentes": [],
+      "espacoLivre": 5
+      
+    },
+    {
+      "numero": 3,
+      "bioma": "savana e rio",
+      "total": 7,
+      "animais_existentes": ["gazela"],
+      "espacoLivre": 5
+      
+    },
+    {
+      "numero": 4,
+      "bioma": "rio",
+      "total": 8,
+      "animais_existentes": [],
+      "espacoLivre": 8
+    },
+    {
+      "numero": 5,
+      "bioma": "savana",
+      "total": 9,
+      "animais_existentes": ["leao"],
+      "espacoLivre": 6
+    }
+  ]
+}

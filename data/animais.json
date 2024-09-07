@@ -1,0 +1,33 @@
+{
+    "LEAO": {
+      "tamanho": 3,
+      "carnivoro": true,
+      "bioma": "v"
+    },
+    "LEOPARDO": {
+      "tamanho": 2,
+      "carnivoro": true,
+      "bioma": "v"
+    },
+    "CROCODILO": {
+      "tamanho": 3,
+      "carnivoro": true,
+      "bioma": "rio"
+    },
+    "MACACO": {
+      "tamanho": 1,
+      "carnivoro": false,
+      "bioma": "v|e"
+    },
+    "GAZELA": {
+      "tamanho": 2,
+      "carnivoro": false,
+      "bioma": "v"
+    },
+    "HIPOPOTAMO": {
+      "tamanho": 4,
+      "carnivoro": false,
+      "bioma": "v|rio"
+    }
+  }
+  
